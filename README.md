@@ -9,7 +9,7 @@ while True:
 
 
 
-## 덧샘만 할 줄 아는 계산기
+## 덧셈만 할 줄 아는 계산기
 
 def plus(x, y):
     print(' {} + {} = {}'.format(x, y, x+y))
